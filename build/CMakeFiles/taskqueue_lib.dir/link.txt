@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtaskqueue_lib.a CMakeFiles/taskqueue_lib.dir/src/Task.cpp.o CMakeFiles/taskqueue_lib.dir/src/TaskQueue.cpp.o CMakeFiles/taskqueue_lib.dir/src/Worker.cpp.o CMakeFiles/taskqueue_lib.dir/src/DatabaseManager.cpp.o CMakeFiles/taskqueue_lib.dir/src/LoadBalancer.cpp.o CMakeFiles/taskqueue_lib.dir/src/TaskDistributor.cpp.o
+/usr/bin/ranlib libtaskqueue_lib.a
